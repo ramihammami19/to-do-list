@@ -1,0 +1,16 @@
+ 
+ .app{
+  border:1px solid #000000;
+  margin: 50px 30px;
+ padding:25px 15px ;
+ position: center;
+} 
+ .todo{
+  display: inline; 
+  flex-direction: column;
+} 
+.todo li ul {
+  width: 170px;
+  overflow: break-word;
+  list-style-type :"💀" ;
+}
